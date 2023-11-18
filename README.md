@@ -2,4 +2,4 @@
 
 Description   |  Project Name  |
 ------------- | -------------  |
-Clean, model and analyze datasets to uncover insights into content trends to inform strategic decisions ,Prepare a PowerPoint deck to communicate key insights for the client and internal stakeholders | [ACCENTURE-DATA-ANALYSIS-VIRTUAL-INTERNSHIP] (https://github.com/YveSene/ACCENTURE-DATA-ANALYSIS-VIRTUAL-INTERNSHIP)
+Clean, model and analyze datasets to uncover insights into content trends to inform strategic decisions ,Prepare a PowerPoint deck to communicate key insights for the client and internal stakeholders | [ACCENTURE-DATA-ANALYSIS-VIRTUAL-INTERNSHIP](https://github.com/YveSene/ACCENTURE-DATA-ANALYSIS-VIRTUAL-INTERNSHIP)
